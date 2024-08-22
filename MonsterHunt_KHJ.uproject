@@ -15,5 +15,8 @@
 			"Name": "WaveformEditor",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
